@@ -8,7 +8,7 @@
 <br>
 
 ### 이룬 것들
-- [] : [Docker로 게임 - Infinite Mario Bros]
+- [ ] : [Docker로 게임 - Infinite Mario Bros]
 - [ ] : [Docker로 게임 - Doom 돌리기]
 
 <br>
