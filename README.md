@@ -8,7 +8,7 @@
 <br>
 
 ### 이룬 것들
-- [ ] : [Docker로 게임 - Infinite Mario Bros]
+- [x] : [Docker로 게임 - Infinite Mario Bros](https://github.com/SagiK-Repository/Docker_Playground/blob/main/Infinite%20Mario%20Bros.md)
 - [ ] : [Docker로 게임 - Doom 돌리기]
 
 <br>
