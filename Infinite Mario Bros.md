@@ -38,4 +38,4 @@
   - http://localhost:8080/  
   ![image](https://user-images.githubusercontent.com/66783849/193150014-ae319d9c-12f1-48ab-9d92-b441c5b57a7d.png)  
   ![image](https://user-images.githubusercontent.com/66783849/193150147-b9652c41-c092-4354-b91e-afad6f8bbcb4.png)
-
+  - 간단한 마리오 게임을 즐길 수 있다.
