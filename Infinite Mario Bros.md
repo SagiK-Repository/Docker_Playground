@@ -9,7 +9,7 @@
 ## 차례
 
 - [x] [1. Infinite Mario Bros Docker 설치](https://github.com/SagiK-Repository/Docker_Playground/blob/main/Infinite%20Mario%20Bros.md)
-- [ ] 2. Infinite Mario Bros Image 실행
+- [x] [2. Infinite Mario Bros Image 실행](https://github.com/SagiK-Repository/Docker_Playground/blob/main/Infinite%20Mario%20Bros.md#2-infinite-mario-bros-image-%EC%8B%A4%ED%96%89)
 
 <br>
 
